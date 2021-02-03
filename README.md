@@ -41,6 +41,8 @@ With ever-increasing stress in the workplace and a global pandemic, many individ
 * The works of [Dr. Christina Maslach](https://www.researchgate.net/profile/Christina_Maslach), leading researcher on burnout in the workplace
 
 ## Some kind-of-depressing news or journal articles about women and the pandemic:
+* An article about COVID-19's effects on mental health for both remote and on-site workers by the Kaiser Family Foundation [(Kamal, Panchal, & Garfield, 2020)](https://www.kff.org/policy-watch/both-remote-and-on-site-workers-are-grappling-with-serious-mental-health-consequences-of-covid-19/)
+
 * A Washington Post article by Alicia Sasser Modestino about how the [Coronavirus child-care crisis will set women back a generation](https://www.washingtonpost.com/us-policy/2020/07/29/childcare-remote-learning-women-employment/)
 
 * How [Working mothers are quitting to take care of their kids, and the US job market may never be the same](https://www.cnn.com/2020/08/19/economy/women-quitting-work-child-care/index.html), by Anneken Tappe on CNN Business
