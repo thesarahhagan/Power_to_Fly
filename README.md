@@ -1,5 +1,5 @@
 # I Don't Want It That Way: Putting Burnout on the Backstreet
-Accompanying repository for the [February 2021 Power to Fly Diversity Reboot talk](https://powertofly.com/summit/speakers/sarahh-3a34d31e1d32). [Slides can be found here.](https://speakerdeck.com/thesarahhagan/i-dont-want-it-that-way-putting-burnout-on-the-backstreet)
+Accompanying repository for the [February 2021 Power to Fly Diversity Reboot talk](https://powertofly.com/summit/speakers/sarahh-3a34d31e1d32). Slides can be [found here.](https://speakerdeck.com/thesarahhagan/i-dont-want-it-that-way-putting-burnout-on-the-backstreet)
 
 # Abstract
 With ever-increasing stress in the workplace and a global pandemic, many individuals are suffering from work-related fatigue and exhaustion, otherwise known as burnout. But how can we treat burnout, or even avoid it entirely? This talk will focus on how to identify the characteristics of workplace burnout, advice for how to deal with it when you have it, and practical tips to create a better work-life "balance" to avoid burnout.
