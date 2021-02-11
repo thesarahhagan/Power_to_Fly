@@ -40,7 +40,7 @@ With ever-increasing stress in the workplace and a global pandemic, many individ
 
 * The works of [Dr. Christina Maslach](https://www.researchgate.net/profile/Christina_Maslach), leading researcher on burnout in the workplace
 
-## Some kind-of-depressing news or journal articles about women and the pandemic:
+## Some kind-of-depressing news or journal articles about the pandemic:
 * An article about COVID-19's effects on mental health for both remote and on-site workers by the Kaiser Family Foundation [(Kamal, Panchal, & Garfield, 2020)](https://www.kff.org/policy-watch/both-remote-and-on-site-workers-are-grappling-with-serious-mental-health-consequences-of-covid-19/)
 
 * A Washington Post article by Alicia Sasser Modestino about how the [Coronavirus child-care crisis will set women back a generation](https://www.washingtonpost.com/us-policy/2020/07/29/childcare-remote-learning-women-employment/)
@@ -52,6 +52,8 @@ With ever-increasing stress in the workplace and a global pandemic, many individ
 * An academic research article in the American Sociological Association's journal ardounf how COVID-19 is exacerbating gender inequality in the labor force by [Landivar et al., 2020](https://journals.sagepub.com/doi/full/10.1177/2378023120947997)
 
 * A Center for American Progress and Century Foundation joint report about [How COVID-19 Sent Women’s Workforce Progress Backward](https://www.americanprogress.org/issues/women/reports/2020/10/30/492582/covid-19-sent-womens-workforce-progress-backward/) by Julie Kashen, Sarah Jane Glynn, and Amanda Novello
+
+* A great visual article about [What COVID-19 Has Done to Our Well-Being](https://hbr.org/2021/02/what-covid-19-has-done-to-our-well-being-in-12-charts?ab=seriesnav-bigidea) in 12 charts by Macaulay Campbell and Gretchen Gavett
 
 ## Tools to help burnout:
 * [Google Re:Work's "One Simple Thing"](https://rework.withgoogle.com/guides/managers-care-professionally-personally-for-team/steps/use-one-simple-thing-for-goal-setting/) for goal-setting
